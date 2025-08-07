@@ -40,7 +40,7 @@ Desarrollar un portafolio sólido que demuestre mis competencias técnicas en he
 | **Python**         | Pandas, Matplotlib, Seaborn, Scikit-learn |
 
 ## 📂 Estructura del repositorio
-    ├── SQL/
-    ├── Python/ 
-    ├── Power BI/
-    └── Excel Avanzado/
+    ├── Excel/
+    ├── Power BI/ 
+    ├── Python/
+    └── SQL/
