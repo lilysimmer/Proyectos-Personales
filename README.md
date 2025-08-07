@@ -42,5 +42,5 @@ Desarrollar un portafolio sólido que demuestre mis competencias técnicas en he
 ## 📂 Estructura del repositorio
     ├── SQL/
     ├── Python/ 
-    ├── Power_BI/
-    └── Excel_Avanzado/
+    ├── Power BI/
+    └── Excel Avanzado/
